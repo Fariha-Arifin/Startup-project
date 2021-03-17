@@ -1,4 +1,6 @@
 # Startup-project
+It is a web-based startup project for weak and probation students. It provides tutorials, special care, project help, and model test. 
+
 Pages are designed with HTML, CSS, javascript, and bootstrap. Screenshots of the project are given below:
 
 ## Home page
